@@ -21,7 +21,10 @@ android {
             proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
         }
     }
-
+    ext {
+        supportLibraryVersion = '1.0.0'
+        playServicesVersion = '1.0.0'
+    }
 }
 
 dependencies {
