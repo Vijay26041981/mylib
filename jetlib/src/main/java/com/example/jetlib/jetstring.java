@@ -1,7 +1,9 @@
 package com.example.jetlib;
 
 public class jetstring {
-   
+    public static String chkupdate(){
+        return "http://103.94.27.90/sdphp//clupdate.php"; }
+
     public static final String dbfupdate = "http://103.94.27.90/sdphp//clientupdate.php";
     public static final String dbfupdate1 = "http://103.94.27.90/sdphp//gameupdate.php";
     public static final String dbfupdate2 = "http://103.94.27.90/sdphp//rateupdate.php";
@@ -10,7 +12,7 @@ public class jetstring {
     public static final String summrep = "http://103.94.27.90/sdphp//summary.php";
     public static final String csummrep = "http://103.94.27.90/sdphp//csummary.php";
     public static final String chkclientname = "http://103.94.27.90/sdphp//clientcheck.php";
-    public static final String chkupdate = "http://103.94.27.90/sdphp//clupdate.php";
+   // public static final String chkupdate = "http://103.94.27.90/sdphp//clupdate.php";
     public static final String downduke = "http://http://103.94.27.90/sdphp/duke.txt";
     public static final String downsklex = "http://103.94.27.90/sdphp/sklex.TXT";
     public static final String entreport = "http://103.94.27.90/sdphp/entreport.php";
