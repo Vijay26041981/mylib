@@ -12,7 +12,7 @@ public class jetstring {
     public static final String summrep = "http://103.94.27.90/sdphp//summary.php";
     public static final String csummrep = "http://103.94.27.90/sdphp//csummary.php";
     public static final String chkclientname = "http://103.94.27.90/sdphp//clientcheck.php";
-   // public static final String chkupdate = "http://103.94.27.90/sdphp//clupdate.php";
+    // public static final String chkupdate = "http://103.94.27.90/sdphp//clupdate.php";
     public static final String downduke = "http://http://103.94.27.90/sdphp/duke.txt";
     public static final String downsklex = "http://103.94.27.90/sdphp/sklex.TXT";
     public static final String entreport = "http://103.94.27.90/sdphp/entreport.php";
@@ -27,4 +27,5 @@ public class jetstring {
     public static final String clientlist = "http://103.94.27.90/sdphp/clientlist.php";
     public static final String ssduke = "http://103.94.27.90/sdphp/duke.txt";
     public static final String lochkupp = "http://103.94.27.90/sdphp/lochkup.php";
+
 }
